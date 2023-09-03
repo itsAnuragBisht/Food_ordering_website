@@ -1,3 +1,8 @@
+INTRODUCTION
+
+A food ordering website is a software which allows any user to order the food online from any restaurants , according to their requirement or from their favourite restaurants. We all khow that with the rise of new era of the internet and smart devices , food ordering websites or apps have beome  increasingly popular among the consumers who want to order food quickly and easily from their own devices from a particular place. These websites offer a convenient way for user to browse menu , place order , and track their deliveries in real-time. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
